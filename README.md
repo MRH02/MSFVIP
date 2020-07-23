@@ -1,5 +1,6 @@
 # MSFVIP
-MSFVIP Most PowerFull Tools For Exploit
+MSFVIP Most PowerFull Tools For Exploiting Android
+*** Version 1.0.0 ****
 
 # How TO Install :
 apt install python2 -y && apt install git -y && git clone https://github.com/MRH02/MSFVIP && cd MSFVIP && python2 msfvip.py
