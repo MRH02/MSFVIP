@@ -14,4 +14,7 @@ MSFVIP is built for both Educational and Internal use ONLY.
 IG : @RzReo
 Telegram : https://t.me/ExploitID1
 
-                                                  Made By ExploitID404 With ❤
+
+
+                                           Made By ExploitID404 With ❤
+                                                  Version 1.0.0
