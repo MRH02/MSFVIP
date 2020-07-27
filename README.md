@@ -2,7 +2,13 @@
 MSFVIP Most PowerFull Tools For Exploiting Android
 *** Version 1.0.0 ****
 
-# How TO Install :
+# How To Install :
+first need Metasploit And OpenVPN
+metasploit :
+pkg install unstable-repo && apt install metasploit -y
+OpenVPN or IP FORDWARDING :
+Checkout insta : https://instagram.com/rzreo/
+MSFVIP :
 apt install python2 -y && apt install git -y && git clone https://github.com/MRH02/MSFVIP && cd MSFVIP && python2 msfvip.py
 
 # Thanks
@@ -15,6 +21,6 @@ IG : @RzReo
 Telegram : https://t.me/ExploitID1
 
 
-
-                                           Made By ExploitID404 With ❤
-                                                  Version 1.0.0
+# UM
+                                    Made By ExploitID404 With ❤
+                                          Version 1.0.0
