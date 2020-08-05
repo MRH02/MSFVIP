@@ -1,6 +1,10 @@
 # MSFVIP
 MSFVIP Most PowerFull Tools For Exploiting Android
-*** Version 1.0.0 ****
+*** New Updated Version 2.0.0 ****
+
+# Whats New ?
+~ Added Backdoor For Windows
+~ Added Exploit Mode For Windows
 
 # How To Install :
 first need Metasploit And OpenVPN
