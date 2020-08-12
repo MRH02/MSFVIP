@@ -223,30 +223,29 @@ def pilih():
         if zedd == 'backdoor/android':
             baru()
         else:
-            if zedd == 'Eksekusi':
-                Eksekusi()
+            if zedd == 'backdoor/windows':
+                baru2()
             else:
-              if zedd == 'update':
-                update()
+              if zedd == 'help':
+                help()
                 home()
               else:
-                                  if zedd == 'backdoor/windows':
-                                        baru2()
-                                  else:
-                                         if zedd == 'help':
-                                           help()
-                                         else:
-                                           print 'ok'
-                                           if zedd == 'exit':
-                                             exit()
-                                                         if zedd == 'eksekusi/windows"':
-                                                             eksekusi2()
-                                  print merah+'Ketik help untuk bantuan' 
-                                  os.system('clear')
-                                  home()
+				  if zedd == 'eksekusi/android':
+					Eksekusi()
+				  else:	
+					 if zedd == 'eksekusi/windows':
+					   eksekusi2()
+					 else:
+					   print 'ok'
+					   if zedd == 'exit':
+					     exit()
+					   else:
+					     print '\x1b[1;91m[!] Pilih 1-6'
+					     os.system('clear')
+					     home()
 
 def home():
-        menu()
+	menu()
+	pilih()         
 
-
-
+home()
