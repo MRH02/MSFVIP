@@ -1,6 +1,6 @@
 # MSFVIP
-MSFVIP Most PowerFull Tools For Exploiting Android
-*** New Updated Version 2.0.0 ****
+MSFVIP Most PowerFull Tools For Exploiting Android <br />
+:heart::heart::heart: New Updated Version 2.0.0 :heart::heart::heart:
 
 # Whats New ?
 ~ Added Backdoor For Windows <br />
@@ -20,12 +20,12 @@ Checkout insta : https://instagram.com/rzreo/
 apt install python2 -y && apt install git -y && git clone https://github.com/MRH02/MSFVIP && cd MSFVIP && python2 msfvip.py
 
 # Thanks
-~ Inspiration For The Tools Exploiting Metasploit
+~ Inspiration For The Tools Exploiting Metasploit <br />
 https://githubc.om/rapid7/metasploit-framework
 
 # Disclaimer
-MRH Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.
-MSFVIP is built for both Educational and Internal use ONLY.
+MRH Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool. <br />
+MSFVIP is built for both Educational and Internal use ONLY. <br />
 IG : @RzReo
 
 #                            Made By RizzSploit With :heart:
