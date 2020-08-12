@@ -5,6 +5,7 @@ MSFVIP Most PowerFull Tools For Exploiting Android
 # Whats New ?
 ~ Added Backdoor For Windows\n
 ~ Added Exploit Mode For Windows
+:trollface:
 
 # How To Install :
 first need Metasploit And OpenVPN
@@ -27,7 +28,6 @@ MSFVIP is built for both Educational and Internal use ONLY.
 IG : @RzReo
 Telegram : https://t.me/ExploitID1
 
-
-# UM
-                                    Made By ExploitID404 With :heart:
+Made By ExploitID404 With
+:heart:
                                           Version 1.0.0
