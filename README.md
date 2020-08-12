@@ -29,5 +29,5 @@ Telegram : https://t.me/ExploitID1
 
 
 # UM
-                                    Made By ExploitID404 With ❤
+                                    Made By ExploitID404 With :heart:
                                           Version 1.0.0
