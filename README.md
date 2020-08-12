@@ -23,10 +23,10 @@ apt install python2 -y && apt install git -y && git clone https://github.com/MRH
 ~ Inspiration For The Tools Exploiting Metasploit <br />
 https://github.com/rapid7/metasploit-framework
 
-# Disclaimer
+# Notice :exclamation::exclamation::exclamation: :
 MRH Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool. <br />
 MSFVIP is built for both Educational and Internal use ONLY. <br />
-Do Not Use For Ilegal Activity! <br />
+**Do Not Use For Ilegal Activity! <br />
 IG : @RzReo
 
 #                            Made By RizzSploit With :heart:
