@@ -27,7 +27,6 @@ https://githubc.om/rapid7/metasploit-framework
 MRH Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.
 MSFVIP is built for both Educational and Internal use ONLY.
 IG : @RzReo
-Telegram : https://t.me/ExploitID1
 
-# Made By ExploitID404 With :heart:
-Updated Version 2.0.0
+#                            Made By RizzSploit With :heart:
+#                                Updated Version 2.0.0
